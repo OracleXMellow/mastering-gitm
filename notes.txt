@@ -1,1 +1,5 @@
 "Hello World" 
+"Line 1: Git is powerful." 
+"Line 2: GitHub is great for collaboration." 
+"Line 3: Staging changes is useful." 
+"Line 1: Git is powerful." 
